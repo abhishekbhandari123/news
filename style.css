@@ -1,0 +1,44 @@
+body {
+  background: #eee;
+  margin: 0;
+  padding: 0;
+}
+h1.display-3 {
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 3px;
+  font-weight: normal;
+  font-size: 20px;
+}
+img {
+  padding: 7px;
+  border: 1px solid #ccc;
+  width: 100%;
+  background: #fff;
+}
+#left {
+  padding: 10px;
+  border-right: 2px solid #ccc;
+  background: #fff;
+  margin: 10px 9px;
+}
+.newsh1 {
+  color: red;
+  text-shadow: 1px 1px 1px black;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  background: #fff;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.h1title {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipse;
+  padding-bottom: 13px 0px;
+}
